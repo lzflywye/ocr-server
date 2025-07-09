@@ -78,7 +78,7 @@ func main() {
 					"success": false,
 					"data":    map[string]interface{}{},
 					"errors": map[string]interface{}{
-						"code":    "OCR OUT ERROR",
+						"code":    "OCR TEXT ERROR",
 						"message": "OCRの文字列出力に失敗しました",
 					},
 				}
